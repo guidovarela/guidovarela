@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - Graphic Designer -> actually: UXUi Designer
 - Front End Developer -> Javascript | Python
-- Teacher -> UTN, UCES, UP, Codo a Codo (BA)
+- Teacher/Instructor -> U.T.N., U.C.E.S., [Talento Tech (BA)](https://talentotech.bue.edu.ar)
 
 
 ## 🔗 Links
